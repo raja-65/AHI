@@ -22,7 +22,7 @@ It is an **embodied intelligence system** that understands your world, builds me
 
 ## 🏗 Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture](1000283289.png)
 
 * Modular learning components
 * Reusable task knowledge
@@ -32,7 +32,9 @@ It is an **embodied intelligence system** that understands your world, builds me
 
 ## 🎥 Demo
 
-![Demo](assets/demo.gif)
+## all files jpg, png and mp4 above in github tested, verified and stress tested.
+
+![Demo](1000290435.mp4)
 
 Shows:
 
@@ -44,22 +46,22 @@ Shows:
 
 ## 📄 Docs
 
-* [Project Overview](docs/AHI.pdf)
+* [Project Overview](AHI__Your_Personal_AI_Companion.pdf)
 
 ---
 
 ## 🔥 Use Cases
 
-* Personal assistant (home + daily life)
+* Personal assistant (home + daily life) personal robot [human mind in metal body]
 * Elderly care companion
 * Adaptive education system
-* Robotics brain
+* Robotics brain, self driving, defence, health and all for physical world.
 
 ---
 
 ## 🛠 Tech Direction
 
-* Vision-based learning
+* Audio Vision-based learning like humans.
 * Memory-augmented models
 * Planning + action loops
 * Lightweight deployment
