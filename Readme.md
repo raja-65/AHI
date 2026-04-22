@@ -22,7 +22,7 @@ It is an **embodied intelligence system** that understands your world, builds me
 
 ## 🏗 Architecture
 
-![Architecture](1000284406.jpg)
+![Architecture](d72e5693-2efa-40b5-b2fc-4b4c7fef8db6.jpg)
 
 * Modular learning components
 * Reusable task knowledge
