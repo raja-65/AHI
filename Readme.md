@@ -46,7 +46,7 @@ Shows:
 
 ## 📄 Docs
 
-* [Project Overview](AHI__Your_Personal_AI_Companion.pdf)
+* [Project Overview](AHI_The_Intelligence_Layer_for_the_Physical_World.pdf)
 
 ---
 
